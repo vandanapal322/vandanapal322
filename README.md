@@ -1,4 +1,6 @@
-<img src="Vandana.jpeg" />
+<p align="center">
+  <img src="Vandana.jpeg" alt="Vandana Pal" style="width:200px; height:200px; border-radius:50%; object-fit:cover; border:4px solid #ffffff; box-shadow:0 8px 20px rgba(0,0,0,0.15);" />
+</p>
 
 <hr>
 
