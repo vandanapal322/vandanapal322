@@ -12,7 +12,7 @@
     ⚙️ Tech Stack: TypeScript, Node.js, C++, Dotnet <br>
     🏆 Strong problem-solving skills in <b>C++</b> <br>
     📧 Email: <a href="mailto:vandanapal322@gmail.com">vandanapal322@gmail.com</a> <br>
-    🌐 Portfolio: <a href="#">Coming Soon</a> <br>
+    🌐 Portfolio: <a href="https://vandanapal322.github.io/vandana-devfolio/">vandana-devfolio</a> <br>
     🚀 Constantly challenging myself with new opportunities and technologies. <br>
   </samp>
 </p>
